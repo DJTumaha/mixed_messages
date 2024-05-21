@@ -1,0 +1,75 @@
+body {
+    background-color: #F9F9ED;
+}
+
+#button {
+    background-color: #D9DBF1;
+    font-family: "Reddit Sans", sans-serif;
+    color: #1D1E2C;
+    border-color: #D9DBF1;
+    border: none;
+    cursor: pointer;
+    padding: 12px 24px;
+    border-radius: 5px;
+    margin-left: 46%;
+}
+
+#button:hover {
+    background-color: #BABEF3;
+    box-shadow: 1.5px 1.5px 0 rgba(0, 0, 0, 0.5);
+}
+
+#button:active {
+    margin-left: 46.3%;
+    margin-top: 1px;
+    box-shadow: none;
+}
+
+
+.header {
+    color: #1D1E2C;
+    font-family: "Reddit Sans", sans-serif;
+    margin-bottom: 1%;
+    margin-top: 300px;
+    margin-left: 29%;
+    font-size: 40px;
+}
+
+.advices {
+    font-family: "Reddit Sans", sans-serif;
+    color: #1D1E2C
+}
+
+.bottom {
+    background-color: #DBF4A7;
+    font-family: "Reddit Sans", sans-serif;
+    color: #1D1E2C;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:30px;
+    text-align: right;
+}
+
+.advices {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#firstAd {
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#secondAd {
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+
+#thirdAd {
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
